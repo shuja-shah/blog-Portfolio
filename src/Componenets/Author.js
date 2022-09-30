@@ -35,14 +35,14 @@ const Author = () => (
       <article className="overview-det">
         <p>
           A professional wordsmith skilled in SEO writing with a knack for digital marketing.
-          He writes to enlighten customers and knows how to tickle readers’ imaginations while connecting stories
+          He writes to enlighten customers and knows how to tickle readers imaginations while connecting stories
           with sales. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
           totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
           explicabo.
         </p>
         <p>
           A professional wordsmith skilled in SEO writing with a knack for digital marketing.
-          He writes to enlighten customers and knows how to tickle readers’ imaginations while connecting stories
+          He writes to enlighten customers and knows how to tickle readers imaginations while connecting stories
           with sales. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
           laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
           vitae dicta sunt explicabo.
