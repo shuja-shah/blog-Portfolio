@@ -9,7 +9,7 @@ const Author = () => (
       <article className="author-det">
         <img className="author-img" src={author} alt="author" />
         <h2>Jessica Henry</h2>
-        <span className="author-sub">Senior SEO WRITER</span>
+        <span className="author-sub special">Senior SEO WRITER</span>
         <ul className="author-social">
           <li>
             {' '}
