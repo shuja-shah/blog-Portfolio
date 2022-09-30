@@ -1,4 +1,4 @@
-import data from '../data';
+import { data } from '../data';
 
 const BlogList = () => (
   <section className="blog-list">
